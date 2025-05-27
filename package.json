@@ -1,0 +1,7 @@
+{
+  "name": "n8n-pdfmerge-starter",
+  "version": "1.0.0",
+  "description": "n8n with PDF merge community node preinstalled (Railway deploy)",
+  "main": "index.js",
+  "license": "MIT"
+}
